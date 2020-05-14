@@ -3,7 +3,7 @@ Exploring Ebay Car Sales Data
 
 ###  Used cars database
 
-![image.png](https://github.com/sandramalaquias/Ebay-Car/blob/master/README.md)
+![ebay](https://github.com/sandramalaquias/Ebay-Car/blob/master/ebay.pgn)
 
 In this guided project, we'll work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
